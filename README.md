@@ -1,4 +1,4 @@
-###Corona Inspector
+### Corona Inspector
 
 This React App helps inspect the number of cases (infected, recovered and deaths) of COVID-19.
 Styling : Material-UI
